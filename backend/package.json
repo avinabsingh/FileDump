@@ -10,6 +10,7 @@
   "license": "ISC",
   "description": "",
   "dependencies": {
+    "uuid": "^14.0.3",
     "yargs": "^18.2.0"
   }
 }
